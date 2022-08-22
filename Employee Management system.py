@@ -10,7 +10,8 @@ class Employee:
         print("Salary of employee is: ",self.salary)
         print("Designation of the employee:", self.designation)
 def menue():
-    print('''************Enter your choice**********)
+    print('''****************Wellcome to Employee Managment System*******
+        ************Enter your choice**********
     To add employee's data press: 1:
     To see all list of employees press: 2
     To delet employee press: 3
